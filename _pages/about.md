@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<br> <br>👋🏼 Hi there, I'm Samarth!"
+title: "<br>👋🏼 Hi there, I'm Samarth!"
 author_profile: true
 redirect_from: 
   - /about/
