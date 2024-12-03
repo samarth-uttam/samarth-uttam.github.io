@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hi there, I'm Samarth!"
+title: "<br> <br> <br>👋🏼 Hi there, I'm Samarth!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,11 +14,6 @@ redirect_from:
 
 
 🔬 My research interests are in Robotics and Human Centred Design. 
-
-
-
-
-
 
 
 📚 I’m a graduate from The Hong Kong University of Science and Technology with my thesis focussing "On the Planning of Handling Large Arbitrarily Curved Glass Sheets"  
