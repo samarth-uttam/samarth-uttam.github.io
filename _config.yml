@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "japan.png"
   name             : "Samarth Uttam"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  # pronouns         : "he/him"  
+  bio              : "(Human Centered) Mechanical Design Engineer"
   location         : "Hong Kong"
   employer         : "HKUST"
   uri              : # URL
