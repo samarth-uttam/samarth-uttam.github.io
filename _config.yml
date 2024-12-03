@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Samarth Uttam / Site Title"
+title                    : "Samarth Uttam's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
