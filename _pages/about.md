@@ -18,4 +18,4 @@ redirect_from:
 
 📚 I’m a graduate from The Hong Kong University of Science and Technology with my thesis focussing "On the Planning of Handling Large Arbitrarily Curved Glass Sheets"  
 
-📽️ I am also interested in software development for the robotic / additive manufacturing development. 
+📽️ I am also interested in software development for the robotic / additive manufacturing applications. 
