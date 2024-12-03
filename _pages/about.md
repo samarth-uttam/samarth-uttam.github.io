@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![some illustration](/images/cool_guy.gif)
+![some illustration](/images/cool_guy.gif){: .align-right width="300px"}
 
 
 👨🏻‍💻 I am currently a Software Engineer at D-Shape 
