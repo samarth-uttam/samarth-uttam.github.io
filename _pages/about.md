@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "👋🏼 Hi there, I'm Samarth!"
+title: "<br>👋🏼 Hi there, I'm Samarth!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+
 
 
 ![some illustration](/images/cool_guy.gif){: .align-right width="300px" style="border-radius: 30px;"}
