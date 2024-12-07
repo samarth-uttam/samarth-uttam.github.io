@@ -28,21 +28,21 @@ redirect_from:
 <h1 style="margin-bottom: 0;border-bottom: none;">📜 Thesis Projects</h1>
 
 <h2 style="margin-bottom: 0;border-bottom: none;">On the Planning of Handling Large Arbitrarily Curved Glass Sheets</h2>
-<h3 style="margin-top: 0;color: grey; font-size: 14px; ">MPhil Thesis at The Hong Kong University of Science and Technology(HKUST)</h3>
+<h3 style="margin-top: 0;color: grey; font-size: 14px; font-weight: normal;"> MPhil Thesis at The Hong Kong University of Science and Technology(HKUST)</h3>
 
 During my MPhil thesis, my research focused on the planning and handling of large arbitrarily curved glass sheets using advanced computational design and optimization techniques. I utilized Finite Element Methods to analyze stress and developed optimization algorithms, including adaptive k-means and heuristic methods, to enhance lifting efficiency and reduce stress. My work also involved researching industrial techniques and applying Python-based modifications to improve algorithm performance and runtime.
 
 
 
 <h2 style="margin-bottom: 0;border-bottom: none;">Development of Self-navigation system for Segway LOOMO for Property Management</h2>
-<h3 style="color: grey;">The Hong Kong University of Science and Technology(HKUST) || MSc Thesis</h3>
+<h3  style="margin-top: 0;color: grey; font-size: 14px; font-weight: normal;">The Hong Kong University of Science and Technology(HKUST) || MSc Thesis</h3>
 
 At [Cheng Kar-Shun Robotics Institute](https://ri.hkust.edu.hk/) at HKUST, I worked on implementing SLAM on the Android-based Segway Loomo platform using ROS integration and LiDAR, as well as developing an Android application to enable efficient property management through seamless integration with the robot’s navigation system. 
 
 
 
 <h2 style="margin-bottom: 0;border-bottom: none;">Design of an All-Terrain Vehicle (ATV)</h2>
-<h3 style="color: grey;">Indian Institute of Information Technology Jabalpur || Bachelors Thesis</h3>
+<h3 style="margin-top: 0;color: grey; font-size: 14px; font-weight: normal;">Indian Institute of Information Technology Jabalpur || Bachelors Thesis</h3>
 
 As a Visiting Student at [Indian Institute of Technology Delhi](https://www.topuniversities.com/universities/indian-institute-technology-delhi-iitd), I worked on designing and modifying the chassis and belt-driven transmission system of an all-terrain vehicle for disaster management, focusing on weight reduction, enhanced maneuverability, and increased payload capacity.
 
