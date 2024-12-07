@@ -21,6 +21,10 @@ redirect_from:
 📽️ I am also interested in software development for the robotic / additive manufacturing applications. 
 
 
+
+<div style="height: 20px;"></div>
+
+
 <h1>📜 Thesis Projects</h1>
 
 <h2 style="margin-bottom: 0;border-bottom: none;">On the Planning of Handling Large Arbitrarily Curved Glass Sheets</h2>
