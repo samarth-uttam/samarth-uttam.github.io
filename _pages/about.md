@@ -25,7 +25,7 @@ redirect_from:
 <div style="height: 20px;"></div>
 
 
-<h1>📜 Thesis Projects</h1>
+<h1 style="margin-bottom: 0;border-bottom: none;">📜 Thesis Projects</h1>
 
 <h2 style="margin-bottom: 0;border-bottom: none;">On the Planning of Handling Large Arbitrarily Curved Glass Sheets</h2>
 <h3 style="margin-top: 0;">The Hong Kong University of Science and Technology(HKUST) || MPhil Thesis</h3>
