@@ -32,7 +32,7 @@ redirect_from:
 
 
 <p style="text-align: justify;">
-During my MPhil thesis, my research focused on the planning and handling of large arbitrarily curved glass sheets using advanced computational design and optimization techniques. I utilized Finite Element Methods to analyze stress and developed optimization algorithms, including adaptive k-means and heuristic methods, to enhance lifting efficiency and reduce stress. My work also involved researching industrial techniques and applying Python-based modifications to improve algorithm performance and runtime.
+During my MPhil thesis, my research focused on the **planning and handling of large arbitrarily curved glass sheets using advanced computational design and optimization techniques**. I utilized Finite Element Methods to analyze stress and developed optimization algorithms, including adaptive k-means and heuristic methods, to enhance lifting efficiency and reduce stress. My work also involved researching industrial techniques and applying Python-based modifications to improve algorithm performance and runtime.
 </p>
 
 
