@@ -30,7 +30,10 @@ redirect_from:
 <h2 style="margin-bottom: 0;border-bottom: none;">On the Planning of Handling Large Arbitrarily Curved Glass Sheets</h2>
 <h3 style="margin-top: 0;color: grey; font-size: 14px; font-weight: normal;"> MPhil Thesis || The Hong Kong University of Science and Technology(HKUST)</h3>
 
+
+<p style="text-align: justify;">
 During my MPhil thesis, my research focused on the planning and handling of large arbitrarily curved glass sheets using advanced computational design and optimization techniques. I utilized Finite Element Methods to analyze stress and developed optimization algorithms, including adaptive k-means and heuristic methods, to enhance lifting efficiency and reduce stress. My work also involved researching industrial techniques and applying Python-based modifications to improve algorithm performance and runtime.
+</p>
 
 
 
