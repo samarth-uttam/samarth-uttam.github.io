@@ -10,7 +10,9 @@ redirect_from:
 ![some illustration](/images/cool_guy.gif){: .align-right width="300px" style="border-radius: 30px;"}
 
 
-👨🏻‍💻 I am currently a Software Engineer at D-Shape 
+I am a mechanical engineer and researcher with a strong passion for computational design, robotics, and human-centered innovation. My work spans across mechanical design, software development, and interdisciplinary research, integrating AI-driven methodologies with engineering solutions. I have experience in advanced computational modeling, participatory design, and system optimization, with applications in robotics, additive manufacturing, and assistive technologies.
+
+<!-- 👨🏻‍💻 I am currently a Software Engineer at D-Shape 
 
 
 🔬 My research interests are in Human Centred Robotic Design. 
@@ -54,6 +56,6 @@ As a Visiting Student at [Indian Institute of Technology Delhi](https://www.topu
 
 I am currently a Software Engineer at [D-Shape](https://d-shape.com) where I am working on the **Software Development** for the Robotic Large Format Additive Manufacturing (LFAM) 3D Printer Applications.
 
-Previously I have worked as an **Industrial Engineer** at [Precision Microdrives Ltd., Hong Kong](https://www.precisionmicrodrives.com/) specializing in mechanical design and software development. I design jigs and fixtures using CAD, FEA, and GD&T, optimize designs with DFMEA principles, and enhance production efficiency through prototyping. Additionally, I develop Arduino-based testing systems and user-friendly Python interfaces for streamlined operations.
+Previously I have worked as an **Industrial Engineer** at [Precision Microdrives Ltd., Hong Kong](https://www.precisionmicrodrives.com/) specializing in mechanical design and software development. I design jigs and fixtures using CAD, FEA, and GD&T, optimize designs with DFMEA principles, and enhance production efficiency through prototyping. Additionally, I develop Arduino-based testing systems and user-friendly Python interfaces for streamlined operations. -->
 
 
