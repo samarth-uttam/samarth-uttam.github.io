@@ -12,7 +12,11 @@ redirect_from:
 
 I am a mechanical engineer and researcher with a strong passion for computational design, robotics, and human-centered innovation. My work spans across mechanical design, software development, and interdisciplinary research, integrating AI-driven methodologies with engineering solutions. I have experience in advanced computational modeling, participatory design, and system optimization, with applications in robotics, additive manufacturing, and assistive technologies.
 
+
+Skills 
+
 <!-- 👨🏻‍💻 I am currently a Software Engineer at D-Shape 
+
 
 
 🔬 My research interests are in Human Centred Robotic Design. 
